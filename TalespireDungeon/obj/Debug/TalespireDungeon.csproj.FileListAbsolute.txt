@@ -1,0 +1,11 @@
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\bin\Debug\TalespireDungeon.exe.config
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\bin\Debug\TalespireDungeon.exe
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\bin\Debug\TalespireDungeon.pdb
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\obj\Debug\TalespireDungeon.csproj.AssemblyReference.cache
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\obj\Debug\TalespireDungeon.csproj.CoreCompileInputs.cache
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\obj\Debug\TalespireDungeon.csproj.CopyComplete
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\obj\Debug\TalespireDungeon.exe
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\obj\Debug\TalespireDungeon.pdb
+C:\Users\Lord Ashes\source\repos\TalespireDungeon\TalespireDungeon\bin\Debug\Translations.txt
